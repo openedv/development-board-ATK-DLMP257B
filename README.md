@@ -1,6 +1,6 @@
 # development-board-ATK-DLMP257B
 
-## Development board
+## ATK-DLMP257B development board resources
 
 First, let's take a look at the ATK-DLMP257B development board backplane resource diagram, as shown below.
 
@@ -8,7 +8,7 @@ First, let's take a look at the ATK-DLMP257B development board backplane resourc
 
 It can be seen from the above figure that the ATK-DLMP257B development board is very rich in resources, expanded with a wealth of interfaces and functional modules. The external size of the development board is 180mm*140mm, and the layout fully considers the humanized design, which is convenient for development and use.
 
-## Core board
+## ATK-CLMP257B core board resources
 
 The appearance of the core board is shown below.
 
