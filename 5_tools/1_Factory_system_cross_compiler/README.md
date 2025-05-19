@@ -1,17 +1,17 @@
-1、将多个1G的文件组合在一起生成交叉编译器
+1.Multiple 1G files are combined together to generate the cross-compiler
 
 ```c#
 cat toolchain-part-* > atk-image-openstlinux-weston-stm32mp2.rootfs-x86_64-toolchain-5.0.3-snapshot-20250115-v1.0.sh
 ```
 
-2、确保文件合并完成
+2.Make sure the files are merged
 
 ```c#
 sync
 ```
 
 
-3、检查交叉编译器文件完整
+3.Check that the cross-compiler file is complete
 
 ```c#
 ls -lh atk-image-openstlinux-weston-stm32mp2.rootfs-x86_64-toolchain-5.0.3-snapshot-20250115-v1.0.sh
