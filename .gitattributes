@@ -2,3 +2,4 @@
 5_tools filter=lfs diff=lfs merge=lfs -text
 5_tools/1_Factory_system_cross_compiler/toolchain-part-aa filter=lfs diff=lfs merge=lfs -text
 5_tools/1_Factory_system_cross_compiler/toolchain-part-ab filter=lfs diff=lfs merge=lfs -text
+5_tools/1_Factory_system_cross_compiler/toolchain-part-ac filter=lfs diff=lfs merge=lfs -text
