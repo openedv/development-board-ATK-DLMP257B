@@ -1,3 +1,0 @@
-
-Core board type	：DF40C-80DP-04V(51)
-Model of base plate female base	：DF40C-80DS-04V(51)

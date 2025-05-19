@@ -1,3 +1,0 @@
-
-Development board 4G module copper column specifications：M2.5x4.5+3mm
-Specification of the copper column used to support the screen for the development board：M3x23+4mm
